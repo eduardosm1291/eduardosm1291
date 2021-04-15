@@ -18,7 +18,7 @@ export class Presentacion implements OnInit {
     constructor() { }
 
     ngOnInit(): void {
-        this.saludar
+        this.saludar();
     }
     saludar() {
         const saludo = "Soy desarollador FrontEnd
