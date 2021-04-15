@@ -4,14 +4,14 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eduardosm1291)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josé-eduardo-sánchez-méndez-953700132)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesanchezm12@gmail.com)
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" margin-right="15px" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="50%" />
 ```golang
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-selector: 'app-prueba',
-templateUrl: './prueba.component.html',
-styleUrls: ['./prueba.component.css']
+selector: 'app-presentacion',
+templateUrl: './presentacion.component.html',
+styleUrls: ['./presentacion.component.css']
 })
 export class Presentacion implements OnInit {
 
