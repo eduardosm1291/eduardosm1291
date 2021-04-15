@@ -6,15 +6,22 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesanchezm12@gmail.com)
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 ```golang
-export class Presentacion implements OnInit {
-    constructor() {
+    import { Component, OnInit } from '@angular/core';
 
-    }
-    ngOnInit() {
-        this.saludar();
+    @Component({
+    selector: 'app-prueba',
+    templateUrl: './prueba.component.html',
+    styleUrls: ['./prueba.component.css']
+    })
+export class PruebaComponent implements OnInit {
+
+    constructor() { }
+
+    ngOnInit(): void {
+        this.saludar
     }
     saludar() {
-        const saludo = "Soy desarollador FrontEnd";
+        const saludo = "Soy desarollador FrontEnd, actualmente trabajando con Angular ;)";
         console.log(saludo);
     }
 } 
