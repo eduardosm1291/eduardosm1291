@@ -13,7 +13,7 @@
     templateUrl: './prueba.component.html',
     styleUrls: ['./prueba.component.css']
     })
-export class PruebaComponent implements OnInit {
+export class Presentacion implements OnInit {
 
     constructor() { }
 
