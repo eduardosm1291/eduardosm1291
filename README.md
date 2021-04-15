@@ -1,4 +1,12 @@
 ### Hi there 👋
+<h1> console.log('Hola, soy Eduardo');</h1>
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eduardosm1291)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josé-eduardo-sánchez-méndez-953700132)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesanchezm12@gmail.com)
+
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 <!--
 **eduardosm1291/eduardosm1291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
