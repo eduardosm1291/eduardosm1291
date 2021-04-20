@@ -32,7 +32,7 @@ export class Presentacion implements OnInit {
 
 
 ### 🛠️ Languages and Tools:
-
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
